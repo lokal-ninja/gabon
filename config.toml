@@ -1,0 +1,19 @@
+baseURL = "https://ga.shoogle.net/gabon"
+languageCode = "fr"
+title = "Gabon"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "gabon"
+
+[taxonomies]
+  shop = "shops"
