@@ -1,6 +1,6 @@
 ---
 title: Bitam
 url: /bitam/
-latitude: 2.0786422
-longitude: 11.4944412
+latitude: 2.077
+longitude: 11.494
 ---
