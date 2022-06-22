@@ -1,4 +1,4 @@
-baseURL = "https://ga.shoogle.net/gabon"
+baseURL = "https://ga.shoogle.net/gabon/"
 languageCode = "fr"
 title = "Gabon"
 theme = "ln-base"
