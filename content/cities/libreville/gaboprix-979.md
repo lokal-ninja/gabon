@@ -1,5 +1,5 @@
 ---
-title: "GABOPRIX-979"
+title: "Gaboprix-979"
 url: /libreville/gaboprix-979/
 shop: supermarché
 ---
