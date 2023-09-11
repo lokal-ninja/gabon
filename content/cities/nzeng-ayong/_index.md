@@ -1,6 +1,6 @@
 ---
-title: Nzeng Ayong
+title: Nzeng-Ayong
 url: /nzeng-ayong/
-latitude: 0.421
-longitude: 9.486
+latitude: 0.429
+longitude: 9.487
 ---
