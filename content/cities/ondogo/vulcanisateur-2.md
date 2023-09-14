@@ -1,5 +1,5 @@
 ---
 title: "Vulcanisateur"
-url: /ondogo/vulcanisateur/
+url: /ondogo/vulcanisateur-2/
 shop: pneus
 ---

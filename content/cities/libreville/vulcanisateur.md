@@ -1,5 +1,5 @@
 ---
 title: "Vulcanisateur"
-url: /nzeng-ayong/vulcanisateur/
+url: /libreville/vulcanisateur/
 shop: pneus
 ---
