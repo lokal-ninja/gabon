@@ -1,5 +1,5 @@
 ---
-title: "La Regina"
+title: "La Régina"
 url: /libreville/la-regina/
-shop: boulangerie
+shop: pâtisserie
 ---
