@@ -1,5 +1,5 @@
 ---
 title: "Victoria"
 url: /libreville/victoria/
-shop: matériel informatique
+shop: Eisenwaren
 ---

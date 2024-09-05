@@ -1,5 +1,5 @@
 ---
 title: "Fruits"
 url: /libreville/fruits/
-shop: légumes
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carlito"
 url: /libreville/carlito/
-shop: vente en gros
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SEGALO"
 url: /libreville/segalo/
-shop: outils
+shop: Werkzeuge
 ---

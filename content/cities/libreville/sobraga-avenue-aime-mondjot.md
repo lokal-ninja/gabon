@@ -1,5 +1,5 @@
 ---
 title: "Sobraga"
 url: /libreville/sobraga-avenue-aime-mondjot/
-shop: boissons
+shop: Getränke
 ---

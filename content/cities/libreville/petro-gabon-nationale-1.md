@@ -1,5 +1,5 @@
 ---
 title: "Petro Gabon"
 url: /libreville/petro-gabon-nationale-1/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sobraga"
 url: /libreville/sobraga/
-shop: boissons
+shop: Getränke
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Epicerie Gondjala"
 url: /libreville/epicerie-gondjala/
-shop: commodité
+shop: Lebensmittel
 ---

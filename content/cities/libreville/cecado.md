@@ -1,5 +1,5 @@
 ---
-title: "CECADO"
+title: "Cecado"
 url: /libreville/cecado/
-shop: supermarché
+shop: Supermarkt
 ---

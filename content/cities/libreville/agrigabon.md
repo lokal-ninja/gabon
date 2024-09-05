@@ -1,5 +1,5 @@
 ---
 title: "AgriGabon"
 url: /libreville/agrigabon/
-shop: agraire
+shop: Landwirtschaftlich
 ---

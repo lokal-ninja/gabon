@@ -1,5 +1,5 @@
 ---
 title: "Bonus"
 url: /libreville/bonus/
-shop: commodité
+shop: Lebensmittel
 ---

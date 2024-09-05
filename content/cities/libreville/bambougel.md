@@ -1,5 +1,5 @@
 ---
 title: "Bambougel"
 url: /libreville/bambougel/
-shop: commodité
+shop: Lebensmittel
 ---

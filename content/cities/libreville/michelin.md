@@ -1,5 +1,5 @@
 ---
 title: "Michelin"
 url: /libreville/michelin/
-shop: pneus
+shop: Reifen
 ---

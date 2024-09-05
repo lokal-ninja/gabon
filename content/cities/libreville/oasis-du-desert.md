@@ -1,5 +1,5 @@
 ---
 title: "Oasis du désert"
 url: /libreville/oasis-du-desert/
-shop: boulangerie
+shop: Bäckerei
 ---
