@@ -1,5 +1,5 @@
 ---
 title: "Blé Doré"
 url: /libreville/ble-dore/
-shop: Bäckerei
+shop: boulangerie
 ---

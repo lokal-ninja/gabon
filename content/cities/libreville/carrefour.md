@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /libreville/carrefour/
-shop: Supermarkt
+shop: supermarché
 ---

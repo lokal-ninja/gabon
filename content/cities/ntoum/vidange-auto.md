@@ -1,5 +1,5 @@
 ---
 title: "Vidange Auto"
 url: /ntoum/vidange-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /libreville/samsung/
-shop: Elektronik
+shop: électronique
 ---

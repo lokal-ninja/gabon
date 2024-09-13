@@ -1,5 +1,5 @@
 ---
 title: "Airtel"
 url: /libreville/airtel/
-shop: Handy
+shop: téléphone portable
 ---

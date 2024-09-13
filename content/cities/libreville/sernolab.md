@@ -1,5 +1,5 @@
 ---
 title: "SERNOLAB"
 url: /libreville/sernolab/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

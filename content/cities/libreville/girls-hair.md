@@ -1,5 +1,5 @@
 ---
 title: "Girls Hair"
 url: /libreville/girls-hair/
-shop: Kosmetik
+shop: beauté
 ---

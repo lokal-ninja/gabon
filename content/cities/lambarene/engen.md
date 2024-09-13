@@ -1,5 +1,5 @@
 ---
 title: "ENGEN"
 url: /lambarene/engen/
-shop: Allgemein
+shop: shop
 ---

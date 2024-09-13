@@ -1,5 +1,5 @@
 ---
 title: "Mayo Vidange"
 url: /libreville/mayo-vidange/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CECADO"
 url: /lartoursville/cecado/
-shop: Supermarkt
+shop: supermarché
 ---

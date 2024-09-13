@@ -1,5 +1,5 @@
 ---
 title: "Shell HELIX"
 url: /libreville/shell-helix/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

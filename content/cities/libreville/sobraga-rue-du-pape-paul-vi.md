@@ -1,5 +1,5 @@
 ---
 title: "Sobraga"
 url: /libreville/sobraga-rue-du-pape-paul-vi/
-shop: Getränke
+shop: boissons
 ---

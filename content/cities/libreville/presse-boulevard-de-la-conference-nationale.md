@@ -1,5 +1,5 @@
 ---
 title: "Presse"
 url: /libreville/presse-boulevard-de-la-conference-nationale/
-shop: Zeitungen
+shop: marchand de journaux
 ---

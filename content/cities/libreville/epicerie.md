@@ -1,5 +1,5 @@
 ---
 title: "Epicerie"
 url: /libreville/epicerie/
-shop: Feinkost
+shop: charcuterie
 ---

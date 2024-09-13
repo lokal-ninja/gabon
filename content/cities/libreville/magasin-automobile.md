@@ -1,5 +1,5 @@
 ---
 title: "Magasin automobile"
 url: /libreville/magasin-automobile/
-shop: Autoteile
+shop: pièces de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lepika"
 url: /bakoumba/lepika/
-shop: Lebensmittel
+shop: commodité
 ---

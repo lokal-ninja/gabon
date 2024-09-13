@@ -1,5 +1,5 @@
 ---
 title: "Clim Auto"
 url: /libreville/clim-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

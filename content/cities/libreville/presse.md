@@ -1,5 +1,5 @@
 ---
 title: "Presse"
 url: /libreville/presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetroGabon"
 url: /lartoursville/petrogabon/
-shop: Allgemein
+shop: shop
 ---

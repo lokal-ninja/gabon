@@ -1,5 +1,5 @@
 ---
 title: "Petro Gabon"
 url: /akanda/petro-gabon/
-shop: Allgemein
+shop: shop
 ---

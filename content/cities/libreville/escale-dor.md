@@ -1,5 +1,5 @@
 ---
 title: "Escale d'Or"
 url: /libreville/escale-dor/
-shop: Supermarkt
+shop: supermarché
 ---

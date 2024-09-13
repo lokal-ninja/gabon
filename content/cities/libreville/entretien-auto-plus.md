@@ -1,5 +1,5 @@
 ---
 title: "Entretien Auto Plus"
 url: /libreville/entretien-auto-plus/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tapisserie"
 url: /libreville/tapisserie/
-shop: Teppiche
+shop: tapis
 ---

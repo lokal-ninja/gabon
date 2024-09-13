@@ -1,5 +1,5 @@
 ---
 title: "RENOVATION"
 url: /libreville/renovation/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

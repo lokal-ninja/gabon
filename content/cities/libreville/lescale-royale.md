@@ -1,5 +1,5 @@
 ---
 title: "L'Escale Royale"
 url: /libreville/lescale-royale/
-shop: Bäckerei
+shop: boulangerie
 ---

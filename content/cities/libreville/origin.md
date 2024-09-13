@@ -1,5 +1,5 @@
 ---
 title: "Origin"
 url: /libreville/origin/
-shop: Wasser
+shop: eau
 ---
