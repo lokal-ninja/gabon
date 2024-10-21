@@ -1,5 +1,5 @@
 ---
 title: "Sipagel"
-url: /libreville/sipagel/
+url: /libreville/sipagel-2/
 shop: supermarché
 ---
