@@ -1,5 +1,5 @@
 ---
-title: "Librairie chrétienne"
+title: "Librairie Chrétienne"
 url: /libreville/librairie-chretienne/
 shop: livres
 ---
