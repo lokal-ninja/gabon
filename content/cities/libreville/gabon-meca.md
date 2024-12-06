@@ -1,5 +1,5 @@
 ---
 title: "Gabon Meca"
 url: /libreville/gabon-meca/
-shop: shop
+shop: fournitures de bureau
 ---
