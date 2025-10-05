@@ -1,5 +1,5 @@
 ---
 title: "Magasin Auto"
-url: /sibang/magasin-auto/
+url: /libreville/magasin-auto/
 shop: pièces de voitures
 ---

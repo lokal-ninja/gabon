@@ -1,5 +1,5 @@
 ---
 title: "Airtel"
-url: /libreville/airtel-3/
+url: /libreville/airtel-rue-maurice-ngome-obiang/
 shop: téléphone portable
 ---
