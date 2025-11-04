@@ -1,5 +1,5 @@
 ---
 title: "La Citronelle"
-url: /libreville/la-citronelle/
+url: /akanda/la-citronelle/
 shop: boulangerie
 ---
