@@ -1,5 +1,5 @@
 ---
 title: "PetroGabon-Okala"
-url: /akanda/petrogabon-okala/
+url: /libreville/petrogabon-okala/
 shop: shop
 ---
