@@ -1,5 +1,5 @@
 ---
 title: "Cecado"
-url: /ntoum/cecado/
+url: /libreville/cecado-5/
 shop: supermarché
 ---
