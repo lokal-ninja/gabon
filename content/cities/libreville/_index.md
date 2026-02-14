@@ -1,6 +1,6 @@
 ---
 title: Libreville
 url: /libreville/
-latitude: 0.422
-longitude: 9.478
+latitude: 0.387
+longitude: 9.446
 ---
