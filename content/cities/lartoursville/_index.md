@@ -1,6 +1,6 @@
 ---
 title: Lartoursville
 url: /lartoursville/
-latitude: -0.811
-longitude: 12.729
+latitude: -0.809
+longitude: 12.732
 ---
