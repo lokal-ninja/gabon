@@ -1,5 +1,5 @@
 ---
-title: "CECADO"
+title: "Cecado"
 url: /lartoursville/cecado/
-shop: supermarché
+shop: commodité
 ---
